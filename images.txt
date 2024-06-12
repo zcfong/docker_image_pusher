@@ -1,8 +1,1 @@
-python:3.11
-python:3.12
-elasticsearch
-kibnana
-redis
-mongo
-mysql
-postgresql
+elasticsearch:8.14.0
