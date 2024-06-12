@@ -1,3 +1,10 @@
-nginx
-python:3.9.6
 python:3.10.13
+python:3.10.18
+python:3.11
+python:3.12
+elasticsearch
+kibnana
+redis
+mongo
+mysql
+postgresql
