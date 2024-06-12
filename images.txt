@@ -1,1 +1,4 @@
-elasticsearch:8.14.0
+mongo:5.0.27
+redis
+mysql:8.4.0
+postgresql:16.3
