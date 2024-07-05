@@ -1,1 +1,1 @@
-mongo:5.0.28-rc0-windowsservercore-ltsc2022
+mongodb/mongodb-community-server:latest
